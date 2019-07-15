@@ -1,0 +1,19 @@
+{
+  "name": "july15tdd",
+  "version": "1.0.0",
+  "description": "test driven development",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "node",
+    "tdd"
+  ],
+  "author": "Rich Hildred",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
