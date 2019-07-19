@@ -9,6 +9,16 @@ class HST{
             case "AB":
                 rc = nAmt *.05;
                 break;
+            case "MB":
+                rc = nAmt *.13;
+                break;
+            case "SK":
+                rc = nAmt *.11;
+                break;
+            case "BC":
+                rc = nAmt *.12;
+                break;
+
             default:
                 throw "invalid province";
         }
